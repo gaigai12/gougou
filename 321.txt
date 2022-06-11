@@ -261,7 +261,7 @@
 "http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8"]
 		}, {
 			"name": "CCTV-15",
-			"urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8"]
+			"urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8"]
 		}, {
 			"name": "CCTV-16",
 			"urls": ["http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8"]
@@ -348,7 +348,7 @@
 {"name":"百视通动画1","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1"]},
 {"name":"百视通动画2","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1"]},
 {"name":"百视通动画3","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1"]},
-{"name":"百视通动画4","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1"]},
+{"name":"百视通动画4","u rls":["http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1"]},
 {"name":"百视通动画5","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1"]},
 {"name":"百视通电影1","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1"]},
 {"name":"百视通电影2","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1"]},
