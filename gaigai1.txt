@@ -1,8 +1,8 @@
 {"zhuyejiekou": [
 {"name":"主页推荐(高清M)","url":"http://app.mengdandan.com/xgapp.php/v1/"},
+{"name":"主页推荐2(高清M)","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"橘子电影(高清M)","url":"http://jz.juzidy.vip/mogai_api.php/v1.vod"},
 {"name":"阿里影视(高清M)","url":"http://aliys.cn:90/api.php/v1.vod"},
-{"name":"主页(高清M)","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"开尔影院(高清M)","url":"https://appx.uy07.com/api.php/v1.vod"},
 {"name":"三日影院(高清M)","url":"https://www.3ri.net/api.php/v1.vod"},
 {"name":"天空影视V1(高清M)","url":"https://tkys.tv/xgapp.php/v1/"},
@@ -22,15 +22,15 @@
 {"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"}],
 
 "caijizhan": [{"name":"七七","url":"http://api.kunyu77.com/api.php"},
-{"name":"丝袜采集","url":"https://siwazyw.cc/api.php"},
-{"name":"91采集","url":"https://91md.me/api.php"},
 {"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"},
 {"name":"天堂资源","url":"http://vipmv.cc/api.php"},
 {"name":"诺讯资源","url":"http://caiji.nxflv.com/api.php"},
 {"name":"江北资源","url":"https://gfzycj.hnmj.vip/api.php"},
 {"name":"wabc(腾讯直采)","url":"https://wabc.ml/mao/1.php"},
 {"name":"红牛资源","url":"https://www.hongniuzy2.com/api.php"},
-{"name":"新浪资源","url":"http://api.xinlangapi.com/xinlangapi.php"},],
+{"name":"新浪资源","url":"http://api.xinlangapi.com/xinlangapi.php"},
+{"name":"丝袜采集","url":"https://siwazyw.cc/api.php"},
+{"name":"91采集","url":"https://91md.me/api.php"},],
 
 "lunbo": [
 {"name": "D鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
