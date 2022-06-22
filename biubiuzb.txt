@@ -1,10 +1,36 @@
 ##🇨🇳｜常用## 
 CCTV1台蓝光,http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
+CCTV2台蓝光,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv2/1.m3u8?IASHttpSessionId=OTT?zzhongd
 湖南卫视蓝光,http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zweid
 陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+西安新闻综,http://stream2.xiancity.cn/xatv1/sd/live.m3u8?zshanxid
+西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8?zshanxid
+西安白鸽,http://stream2.xiancity.cn/xatv2/sd/live.m3u8?zshanxid
+西安影院,http://stream2.xiancity.cn/xatv4/sd/live.m3u8?zshanxid
+西安丝路,http://stream2.xiancity.cn/xatv5/sd/live.m3u8?zshanxid
 体育5台蓝光,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv5/1.m3u8?IASHttpSessionId=OTT?zzhongd
 体育5+蓝光,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv05plus/1.m3u8?IASHttpSessionId=OTT?zzhongd
-
+RM刘在石李光洙跑男,http://61.241.131.18/tx.rtmp.huya.com/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8
+凤凰中文,http://125.227.210.37:8935/VideoInput/play.ts
+凤凰中文2,http://125.227.210.55:8935/VideoInput/play.ts
+凤凰中文3,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰中文4,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
+凤凰资讯2,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+三立台湾ᴴᴰ,http://61.221.81.93:8088/hls/65/807/ch20.m3u8
+台视ᴴᴰ,http://61.221.81.93:8088/hls/72/814/ch46.m3u8
+中视ᴴᴰ,http://61.221.81.93:8088/hls/72/814/ch47.m3u8
+华视ᴴᴰ,http://61.221.81.93:8088/hls/72/814/ch48.m3u8
+民视ᴴᴰ,http://61.221.81.93:8088/hls/73/815/ch49.m3u8
+芒果4kTV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+北京4kIPTV,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+影院4k,http://zzy789.xyz/douyu1.php?id=9249162
+影院4k2,http://epg.112114.xyz/douyu/9249162
+游戏风云[1920*1080],http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+劲爆体育[1920*1080],http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球[1920*1080],http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 ##🇨🇳｜央视## 
 CCTV1 综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
 CCTV1 综合,http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
