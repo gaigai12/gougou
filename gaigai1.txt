@@ -29,8 +29,7 @@
 {"name":"wabc(腾讯直采)","url":"https://wabc.ml/mao/1.php"},
 {"name":"红牛资源","url":"https://www.hongniuzy2.com/api.php"},
 {"name":"新浪资源","url":"http://api.xinlangapi.com/xinlangapi.php"},
-{"name":"丝袜采集","url":"https://siwazyw.cc/api.php"},
-{"name":"91采集","url":"https://91md.me/api.php"},],
+],
 
 "lunbo": [
 {"name": "D鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
