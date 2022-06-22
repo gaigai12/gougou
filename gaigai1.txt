@@ -1,48 +1,27 @@
 {"zhuyejiekou": [
-
 {"name":"主页推荐(高清M)","url":"http://app.mengdandan.com/xgapp.php/v1/"},
-
 {"name":"橘子电影(高清M)","url":"http://jz.juzidy.vip/mogai_api.php/v1.vod"},
-
 {"name":"阿里影视(高清M)","url":"http://aliys.cn:90/api.php/v1.vod"},
-
 {"name":"主页(高清M)","url":"http://35ys.cc/api.php/v1.vod"},
-
 {"name":"开尔影院(高清M)","url":"https://appx.uy07.com/api.php/v1.vod"},
-
 {"name":"三日影院(高清M)","url":"https://www.3ri.net/api.php/v1.vod"},
-
 {"name":"天空影视V1(高清M)","url":"https://tkys.tv/xgapp.php/v1/"},
-
 {"name":"天空影视V2(高清M)","url":"https://www.tkys.tv/xgapp.php/v2/"},
-
 {"name":"北川影视(高清M)","url":"https://www.bcwzg.com/api.php/app/"},
-
 {"name":"懒猫影视(高清M)","url":"https://lanmao.lanmaoymw.cn/api.php/v1.vod"},
-
 {"name":"嗷呜视频(高清M)","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
-
 {"name":"秒播365(高清M)","url":"https://www.kan365.xyz/api.php/app/"},
-
 {"name":"躺平影视v1(高清M)","url":"http://www.lltpys.com/xgapp.php/v1/"},
-
 {"name":"钟特影视(高清M)","url":"https://app.zteys.com/api.php/v1.vod"},
-
 {"name":"段友2影视(高清M)","url":"https://shangjihuoke.com/api.php/tv.vod"},
-
 {"name":"粉象视界(高清M)","url":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
-
 {"name":"独播社(高清M)","url":"http://35ys.cc/api.php/v1.vod"},
-
 {"name":"益达影院(高清M)","url":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
-
 {"name":"爱酷影视(高清M)","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-
 {"name":"酷扑TV(高清M)","url":"https://www.kupu.cc/api.php/app/"},
+{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"}],
 
-{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"},
-],
-"caijizhan": [{"name":" 七七","url":"http://api.kunyu77.com/api.php"},
+"caijizhan": [{"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"丝袜采集","url":"https://siwazyw.cc/api.php"},
 {"name":"91采集","url":"https://91md.me/api.php"},
 {"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"},
@@ -314,6 +293,6 @@
 "bfbiaotiqian": "\">",
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+"bflianjiehou": "\""}
 ]
 }
