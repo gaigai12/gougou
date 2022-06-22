@@ -12,11 +12,6 @@ CCTV2蓝光,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv2/1.m3u8?IAS
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰香港2,http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
-凤凰香港3,http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
-凤凰香港4,http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰香港5,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
 北京4kIPTV,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 ##🇨🇳｜央视## 
