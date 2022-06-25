@@ -1,7 +1,7 @@
 {"sites":[
 {"key":"csp_77","name":"pglblb默认主页","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_77","name":"七七🏀","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_CZSPP","name":"厂长🐞","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XBiubiubiubiu_lezhu","name":"乐猪(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"}，
+{"key":"csp_XBiubiubiubiu_lezhu","name":"乐猪(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"},
 {"key":"csp_xpath_A33","name":"MTV🎸","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/mtv"},
 {"key":"csp_Kuaikan","name":"快看🐞","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端🐞","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
