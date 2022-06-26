@@ -46,7 +46,9 @@
 {"key":"csp_biubiu_风车动漫","name":"风车","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"},
 {"key":"csp_biubiu_维奇动漫","name":"维奇","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"},
 {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"71077acced9141e18971c1a8fcb29501"},}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vOTkvai9yYXcvYnJhbmNoL21haW4vcGdsYmxiX3piXzYxOS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
+"proxy://do=live&type=txt&ext=Y2xhbjovL2NhdC90cy90di9saXZlLnR4dA=="
+]}]}],
 "parses":[{"name":"默认","type":3,"url":"Demo"},
 {"name":"网02","type":1,"url":"https://json.pangujiexi.com/json.php?url=","ext":{"flag":["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺"]}},
 {"name":"网03","type":1,"url":"https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=","ext":{"flag":["Itnb","wuduzy"]}},
