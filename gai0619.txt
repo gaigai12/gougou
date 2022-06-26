@@ -45,7 +45,7 @@
 {"key":"csp_xpath_网络搜集源23","name":"AGE","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/x/raw/branch/main/604-age.js"},
 {"key":"csp_biubiu_风车动漫","name":"风车","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"},
 {"key":"csp_biubiu_维奇动漫","name":"维奇","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"71077acced9141e18971c1a8fcb29501"},}],
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"71077acced9141e18971c1a8fcb29501"}],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL2NhdC90cy90di9saXZlLnR4dA=="
 ]}]}],
 "parses":[{"name":"默认","type":3,"url":"Demo"},
