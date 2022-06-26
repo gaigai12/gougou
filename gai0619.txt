@@ -1,4 +1,4 @@
-{"spider":"https://gitea.com/99/j/raw/branch/main/pglblb_20220619.txt",
+{"spider":"https://gaigai12.github.io/gougou/pglblb_20220619.txt",
 "sites":[
 {"key":"csp_77","name":"pglblb默认主页","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_77","name":"七七🏀","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
