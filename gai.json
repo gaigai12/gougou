@@ -56,7 +56,7 @@
 //{"key": "csp_Lib"        ,"name":"Libvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_IKan"       ,"name":"爱看影视","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1},
 //{"key": "csp_DiDuan"     ,"name":"低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
-//{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","tag": "qb,tj,rm","categories":[]},
+{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gaigai.anglesya.win/token.txt"}],
 
 "lives":[{"group":"redirect","channels":[{"name":"live",
