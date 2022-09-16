@@ -2,7 +2,7 @@
 	"spider":"https://gaigai.anglesya.win/777.jar;md5;7b65ff61e7b6887f975d9d83909361d5",
     //"spider":"https://gitea.com/gaigai/gougou/raw/branch/main/0821.jar;md5;6cd83173b1f8a4702fe60162334b73ea",
 "sites": [
-{"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,},
+{"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "T4"             ,"name":"🐞T4（长按）","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=980f5a3d59f34d0f85cb9994ffc1e8cf&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "csp_SP360"      ,"name":"3600(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
