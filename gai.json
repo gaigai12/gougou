@@ -1,6 +1,6 @@
 {
-	"spider":"https://gaigai12.github.io/gougou/1007.jar",
-    //"spider":"https://gaigai12.github.io/gougou/0926.jar;md5;2473242d5202e46f31288cf9baca01bd",
+	//"spider":"https://gaigai12.github.io/gougou/1007.jar",
+    "spider":"https://gaigai12.github.io/gougou/0926.jar;md5;2473242d5202e46f31288cf9baca01bd",
 "sites": [
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "T4"             ,"name":"🐞T4（长按）","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=980f5a3d59f34d0f85cb9994ffc1e8cf&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
