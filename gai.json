@@ -55,7 +55,7 @@
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gaigai.anglesya.win/gaigai.txt"}],
 
 "lives":[{"group":"redirect","channels":[{"name":"live",
-"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nYWlnYWkuYW5nbGVzeWEud2luL3piLnR4dA=="]}]}],
+"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nYWlnYWkxMi5naXRodWIuaW8vZ291Z291L3piLnR4dA=="]}]}],
 "rules": [
 
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
