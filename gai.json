@@ -35,7 +35,7 @@
 {"key":"csp_Mjxq"        ,"name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_剧荒"       ,"name": "剧荒(SP)", "type": 3,"api": "csp_Juhuang","searchable": 0,"quickSearch": 1,"filterable": 1},
 {"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/xbxp/bili.json"},
+{"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/bili.json"},
 {"key": "学堂"            ,"name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/xbxp/学堂.json"},
 {"key": "少儿"            ,"name": "少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai.anglesya.win/xbxp/少儿教育.json"},
 {"key": "演唱会"          ,"name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai.anglesya.win/xbxp/演唱会.json"},
