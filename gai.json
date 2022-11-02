@@ -39,19 +39,21 @@
 {"key": "MV"              ,"name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/xbxp/歌曲MV.json"},
 {"key": "csp_Yj1211"      ,"name": "网红直播","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"csp_Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaigai12.github.io/gougou/alist.json"},
+{"key":"csp_Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaigai12.github.io/gougou/alist.json","jar":"https://gaigai.anglesya.win/0926.jar"},
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gaigai.anglesya.win/gaigai.txt"}],
 
 "lives":[{"group":"redirect","channels":[{"name":"live",
 "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nYWlnYWkxMi5naXRodWIuaW8vZ291Z291L3piLnR4dA=="]}]}],
 "rules": [
-
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
-
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
-
-  {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
-
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},
+  {"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},
+  {"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+  {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
+  {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
 "parses": [
 {"name":"聚合解","type":3,"url":"Demo"},
