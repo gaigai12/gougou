@@ -5,7 +5,7 @@
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "农民"            ,"name": "农民(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
-{"key": "图图"            ,"name":"图图","type": 3,"api": "csp_AppTT","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "图图"            ,"name":"图图","type": 3,"api": "csp_AppTT","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_SP360"      ,"name":"3600(解析)","type":3,"api":"csp_SP360","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1},	
 {"key": "csp_QQ"         ,"name":"腾讯(解析)","type":3,"api":"csp_QQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_MGTV"       ,"name":"芒果(解析)","type":3,"api":"csp_MGTV","playerType": 1,"searchable":1,"quickSearch":0,"filterable":1},
