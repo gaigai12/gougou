@@ -1,6 +1,6 @@
 {
 	//"spider":"https://gaigai12.github.io/gougou/1007.jar",
-    "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948",
+    "spider":"https://dxawi.github.io/1/jar/cs102.jar;md5;a1072d4734ef144bd5a8826cecc05e6f",
 "sites": [
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
