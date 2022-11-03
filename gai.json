@@ -17,7 +17,7 @@
 {"key": "2年级"          ,"name": "2年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai12.github.io/gougou/二年级.json"},
 {"key": "7年级"           ,"name":"7年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai12.github.io/gougou/初中.json"},
 {"key": "儿歌"            ,"name":"儿歌大全","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai.anglesya.win/xbxp/少儿教育.json"},
-{"key": "csp_CZSPP"      ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"},
+{"key": "csp_CZSPP"      ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_LiteApple"  ,"name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_xpath_dm84","name": "动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/1/json/dm84.json"},	
