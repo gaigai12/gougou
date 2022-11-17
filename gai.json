@@ -2,6 +2,7 @@
     "spider":"https://gaigai.anglesya.win/cs102.jar;md5;a1072d4734ef144bd5a8826cecc05e6f",
     //"spider":"https://dxawi.github.io/1/jar/cs.jar",
 "sites": [
+{"key":"js豆瓣","name":"🅱️豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "农民"            ,"name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
