@@ -4,6 +4,7 @@
 "sites": [
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
+{"key": "csp_XYQ_lu1"    , "name": "️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai12.github.io/gougou/直播源.json"},
 {"key": "农民"            ,"name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
 {"key": "csp_SP360"      ,"name":"3600(解析)","type":3,"api":"csp_SP360","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1},	
 {"key": "csp_QQ"         ,"name":"腾讯(解析)","type":3,"api":"csp_QQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -35,7 +36,6 @@
 {"key": "球类"            ,"name": "球类","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/球类.json"},
 {"key": "棋牌"            ,"name": "棋牌娱乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/棋牌.json"},
 {"key": "MV"              ,"name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/歌曲MV.json"},
-{"key": "csp_XYQ_lu1"     , "name": "️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai12.github.io/gougou/直播源.json"},
 {"key": "csp_Yj1211"      ,"name": "网红直播","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gaigai12.github.io/gougou/gaigai.txt"}],
