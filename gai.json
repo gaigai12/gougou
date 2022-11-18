@@ -20,6 +20,7 @@
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_xpath_dm84","name": "动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai12.github.io/gougou/动漫巴士.json"},	
 {"key": "csp_xb_cokemv","name": "cokemv(XBiu)","type": 3, "api": "csp_XBiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_biubiu_dadagui","name":"达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/dadagui.json"},  
     //{"key": "csp_Cokemv"     ,"name":"Cok影视" ,"type":3,"api":"csp_Cokemv","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1},	
 {"key": "csp_Zxzj"       ,"name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Voflix","name": "Voflix(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/1/json/voflix.json"},
