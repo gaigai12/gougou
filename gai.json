@@ -30,7 +30,7 @@
 {"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/bili.json"},
 {"key": "学堂"            ,"name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/学堂.json"},
-{"key": "少儿"            ,"name": "少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/少儿教育.json"},
+//{"key": "少儿"            ,"name": "少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/少儿教育.json"},
 {"key": "演唱会"          ,"name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/演唱会.json"},
 {"key": "戏曲"            ,"name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/戏曲.json"},
 {"key": "美食"            ,"name": "美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai12.github.io/gougou/美食.json"},
