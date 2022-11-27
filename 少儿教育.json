@@ -1,17 +1,15 @@
 {
   "classes": [
-    {"type_name": "宝宝巴士","type_id": "宝宝巴士"},
-    {"type_name": "儿童","type_id": "3-6岁益智动画合集"},
-    {"type_name": "宝宝巴士","type_id": "宝宝巴士动画合集"},    
-    {"type_name": "悟空识字","type_id": "识字认字动画合集"},    
+    {"type_name": "宝宝巴士","type_id": "宝宝巴士动画合集"}, 
+    {"type_name": "儿童歌曲","type_id": "儿童歌曲"},
+    {"type_name": "儿童音乐","type_id": "儿童音乐"},
+    {"type_name": "儿童动画","type_id": "儿童动画"},
+    {"type_name": "儿童绘画","type_id": "儿童绘画"},
+    {"type_name": "儿童","type_id": "3-6岁益智动画合集"},   
     {"type_name": "少儿","type_id": "CCTV14少儿频道合集"},
     {"type_name": "儿童启蒙故事","type_id": "儿童启蒙故事"},
     {"type_name": "儿童英语启蒙","type_id": "儿童英语启蒙"},
-    {"type_name": "儿童歌曲","type_id": "儿童歌曲"},
-    {"type_name": "儿童绘画","type_id": "儿童绘画"},
     {"type_name": "睡前故事","type_id": "睡前故事"},
-    {"type_name": "儿童动画","type_id": "儿童动画"},
-    {"type_name": "儿童音乐","type_id": "儿童音乐"},
     {"type_name": "儿童安全教育","type_id": "儿童安全教育"} ],
     
   "filter": {}
