@@ -2,7 +2,8 @@
     "spider":"https://gaigai.anglesya.win/cs102.jar;md5;341009aefb94cacdcb6d74433cdd0549",
     //"spider":"https://dxawi.github.io/1/jar/cs.jar",
 "sites": [
-{"key":"js豆瓣","name":"🅱️豆瓣热播","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
+{"key" : "drpy_js_豆瓣", "name" : "搜索|豆瓣","type" : 3,"api" : "https://gaigai.anglesya.win/.js/drpy.min.js","ext" : "https://gaigai.anglesya.win/.js/drpy.js"},
+{"key" : "drpy_js_腾云驾雾","name" : "官源|腾讯","type" : 3,"api" : "https://gaigai.anglesya.win/.js/drpy.min.js","ext" : "https://gaigai.anglesya.win/.js/腾云驾雾.js"},
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"YQK_spider","name":"⚽一起看世界杯","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://52bsj.vip:81/api/v3/file/get/65035/qj.jar?sign=U-N-b8k1fvZQ9JfIF7a2H3Uq-F33kjJAS-D4qPqYJcA%3D%3A0"},
@@ -39,7 +40,7 @@
 {"key": "棋牌"            ,"name": "棋牌娱乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/棋牌.json"},
 {"key": "MV"              ,"name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/歌曲MV.json"},
 {"key": "csp_Yj1211"      ,"name": "网红直播","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key" : "drpy_js_Alist","name" : "Alist[DRPY]","type" : 3,"api" : "https://gaigai.anglesya.win/js/alist.min.js","ext" : "https://gaigai.anglesya.win/js/alist.json"},
+{"key" : "drpy_js_Alist","name" : "Alist[DRPY]","type" : 3,"api" : "https://gaigai.anglesya.win/.js/alist.min.js","ext" : "https://gaigai.anglesya.win/.js/alist.json"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gaigai.anglesya.win/gaigai.txt"}],
 
