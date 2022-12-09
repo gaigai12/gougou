@@ -15,13 +15,6 @@
         }
     },
         {
-        "name" : "🦀9T(Adult)",
-        "server" : "https://drive.9t.ee",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
         "name" : "🌤晴园的宝藏库",
         "server" : "https://alist.52qy.repl.co",
         "startPage" : "/",
