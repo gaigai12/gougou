@@ -56,7 +56,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def getCookie(self):
         # --------↓↓↓↓↓↓↓------在下方cookies_str后的双引号内填写-------↓↓↓↓↓↓↓--------
-        cookies_str = ""
+        cookies_str = "_uuid=82482973-6296-BCDF-A6AA-BF284429DD9731605infoc; b_nut=1654909832; buvid3=60172719-9707-3D96-3A33-BEABB1AAF80B44961infoc; buvid4=EC03A0F1-937C-A03F-6A2B-93050889633D44961-022061109-jlQT4Mw6Bq8Ivts3n1rGF9dg5TvzVxuuOloUf2vBcw3wXNzO3MhTHQ==; i-wanna-go-back=-1; fingerprint=5b85e088289beb63dc5dba0dbd4cde9e; buvid_fp_plain=undefined; CURRENT_FNVAL=4048; CURRENT_QUALITY=80; PVID=1; fingerprint3=e0be0ab719b1e370a6ebdb157deb4952; bp_video_offset_1881716914=736789665443479700; innersign=0; b_lsid=46EC9B9F_184EC6334E0; csrf_state=dc30af88e816b044f52c69baf0f31ca0; SESSDATA=832c9d12,1685965305,5597d*c1; bili_jct=5f0214fc767cce7f617d7078561f89b2; DedeUserID=1881716914; DedeUserID__ckMd5=d827c73bd8417074; sid=5v6ggqdf; b_ut=5; buvid_fp=5b85e088289beb63dc5dba0dbd4cde9e"
         if cookies_str:
             cookies = dict([co.strip().split('=', 1) for co in cookies_str.split(';')])
             bili_jct = cookies['bili_jct']
