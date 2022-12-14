@@ -32,7 +32,7 @@
 {"key": "csp_Zxzj"       ,"name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Voflix","name": "Voflix(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.anglesya.win/voflix.json"},
 {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","playerType": 1,"searchable": 1,"quickSearch":1,"filterable":1},
-{"key": "FindZY"         ,"name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "151fc8483c5b45a581fa8d2ba51811be"},
+{"key": "FindZY"         ,"name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "151fc8483c5b45a581fa8d2ba51811be","jar":"https://ml.caixin.repl.co/jshk/fm.jar"},
 {"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/bili.json"},
 {"key": "学堂"            ,"name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/学堂.json"},
