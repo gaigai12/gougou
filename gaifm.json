@@ -15,13 +15,13 @@
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {
 
-            "key" : "drpy_js_乐猪TV[js1]",
+            "key" : "drpy_js_乐猪TV[]",
 
             "name" : "乐猪TV[DRPY]",
 
             "type" : 3,
 
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
+            "api" : "https://gaigai.anglesya.win/.js/drpy2.min.js",
 
             "ext" : "https://gaigai.anglesya.win/.js/乐猪TV.js"},
 {"key":"drpy_js_Voflix"  ,"name":"Voflix[js]","type":3,"api":"https://gaigai.anglesya.win/.js/drpy.min.js","ext":"https://gaigai.anglesya.win/.js/Voflix.js"},
