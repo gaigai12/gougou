@@ -62,7 +62,7 @@
   {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
  "parses": [
-    {"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
+//{"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
     {"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}},
     {"name": "解析1","url": "http://rxjx.kuanjv.com/allm3u8.php?url=","type": 1,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
     {"name": "解析2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
