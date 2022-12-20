@@ -88,7 +88,7 @@
 
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-{"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gaigai.anglesya.win/gaigai.txt"}],
+{"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/tok"}],
 
  "lives": [
 
