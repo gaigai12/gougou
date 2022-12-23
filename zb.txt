@@ -4,6 +4,7 @@ CCTV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1/130000
 CCTV2,http://223.95.111.98:5555/newlive/live/hls/2/live.m3u8
 CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR$8M1080
 CCTV2,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV4,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
 CCTV5,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5+,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
