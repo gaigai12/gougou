@@ -33,6 +33,7 @@
 {"key": "dr_菜狗","name": "菜狗(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/菜狗.js"},
 //{"key": "py_bilimd","name": "B站","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gaigai.anglesya.win/.js/py_bilimd.py"},
 {"key": "Voflix","name": "Voflix(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.anglesya.win/voflix.json"},
+{"key":"csp_Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/29963/box281.jar?sign=xx5cM6sdOlQIx7BcKyXo0nnj-ZrVehFpllWJC4L30xM%3D%3A0"},
 //{"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","playerType": 1,"searchable": 1,"quickSearch":1,"filterable":1},
 {"key": "FindZY"         ,"name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok","jar":"https://ml.caixin.repl.co/jshk/fm.jar"},
 {"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
