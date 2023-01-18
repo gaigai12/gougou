@@ -58,10 +58,15 @@
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/tok"}],
 
- "lives": [{"name": "直播","type": 1,
-      "url": "https://gaigai.anglesya.win/zb.txt",
+"lives": [
+    {
+      "name": "直播",
+      "type": 1,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"}],
+      "logo": "http://epg.51zmt.top:8000/{logo}"
+    }
+  ],
 "rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
