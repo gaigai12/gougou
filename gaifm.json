@@ -61,11 +61,9 @@
 "lives": [
     {
       "name": "直播",
-      "type": 1,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
-    }
+      "type": 0,
+      "url": "https://gaigai.anglesya.win/zb.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",}
   ],
 "rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
