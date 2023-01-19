@@ -77,12 +77,10 @@
   {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
 
- "parses": [{"name":"解析聚合","type":3,"url":"Demo"},
-    {"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
-    {"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}},
-    {"name": "解析3","url":"https://dm.xmflv.com:4433/?url=", "type": 0, "ext": {"flag": ["qiyi", "imgo", "爱奇艺","奇艺","qq","腾讯","youku", "优酷","pptv", "PPTV","letv", "乐视","leshi", "bilibili","哔哩哔哩", "哔哩", "mgtv","芒果", "sohu",  "xigua","fun","风行"],"header": { "User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0" } }, 
+ "parses": [
+    {"name": "解析1","url":"https://dm.xmflv.com:4433/?url=", "type": 0, "ext": {"flag": ["qiyi", "imgo", "爱奇艺","奇艺","qq","腾讯","youku", "优酷","pptv", "PPTV","letv", "乐视","leshi", "bilibili","哔哩哔哩", "哔哩", "mgtv","芒果", "sohu",  "xigua","fun","风行"],"header": { "User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0" } }, 
     {"name": "解析2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-    {"name":"解析1","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
+    {"name":"解析3","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
     {"name": "解析4","url": "https://json.legendwhb.cn/llq/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
     {"name": "Web聚合","type": 3,"url": "Web"}],
 
