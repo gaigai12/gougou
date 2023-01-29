@@ -1,6 +1,6 @@
 {
-    "spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
-    //"spider":"https://dxawi.github.io/1/jar/cs.jar",
+    //"spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
+    "spider":"https://gaigai.i19.eu/cs103.jar",
 "sites": [
 {"key" : "drpy_js_豆瓣", "name" : "搜索|豆瓣","type" : 3,"api" : "https://gaigai.anglesya.win/.js/drpy.min.js","ext" : "https://gaigai.anglesya.win/.js/drpy.js"},
 {"key" : "drpy_js_腾云驾雾","name" : "腾讯视频","type" : 3,"api" : "http://101.34.67.237/libs/drpy.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
