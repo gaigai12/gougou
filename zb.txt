@@ -1,17 +1,17 @@
 常用,#genre#
-CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
-CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
-CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
-CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
-CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
-CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
-CCTV-1 综合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-2 财经,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-2 财经,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR$8M1080
-CCTV-3 综艺,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV-4 中文国际,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV-5 体育,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV-5+ 体育赛事,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+CCTV-1,https://live.v1.mk/aishang/cctv1hd
+CCTV-2,https://live.v1.mk/aishang/cctv2hd
+CCTV-3,https://live.v1.mk/aishang/cctv3hd
+CCTV-4,https://live.v1.mk/aishang/cctv4hd
+CCTV-5,https://live.v1.mk/aishang/cctv5hd
+CCTV-5+,https://live.v1.mk/aishang/cctv5p
+CCTV-1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV-2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV-2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR$8M1080
+CCTV-3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV-4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV-5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV-5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://120.84.96.78:808/hls/29/index.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -38,44 +38,44 @@ SX西部电影,http://111.20.33.70/PLTV/88888893/224/3221226364/index.m3u8
 西安都市频道,http://111.20.33.70/PLTV/88888893/224/3221226367/index.m3u8
 
 央视,#genre#
-CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
-CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
-CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
-CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
-CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
-CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
-CCTV-6 电影,https://live.v1.mk/aishang/cctv6hd
-CCTV-7 国防军事,https://live.v1.mk/aishang/cctv7hd
-CTV-8 电视剧,https://live.v1.mk/aishang/cctv8hd
-CCTV-9 纪录,https://live.v1.mk/aishang/cctv9hd2
-CCTV-10 科教,https://live.v1.mk/aishang/cctv10hd
-CCTV-11 戏曲,https://live.v1.mk/aishang/cctv11hd
-CCTV-12 社会与法,https://live.v1.mk/aishang/cctv12hd
-CCTV-13 新闻,https://live.v1.mk/aishang/cctv13hd
-CCTV-14 少儿,https://live.v1.mk/aishang/cctv14hd
-CCTV-15 音乐,https://live.v1.mk/aishang/cctv15hd
-CCTV-16 奥林匹克,https://live.v1.mk/aishang/cctv16hd
-CCTV-17 农业农村,https://live.v1.mk/aishang/cctv17hd
+CCTV-1,https://live.v1.mk/aishang/cctv1hd
+CCTV-2,https://live.v1.mk/aishang/cctv2hd
+CCTV-3,https://live.v1.mk/aishang/cctv3hd
+CCTV-4,https://live.v1.mk/aishang/cctv4hd
+CCTV-5,https://live.v1.mk/aishang/cctv5hd
+CCTV-5+,https://live.v1.mk/aishang/cctv5p
+CCTV-6,https://live.v1.mk/aishang/cctv6hd
+CCTV-7,https://live.v1.mk/aishang/cctv7hd
+CCTV-8,https://live.v1.mk/aishang/cctv8hd
+CCTV-9,https://live.v1.mk/aishang/cctv9hd2
+CCTV-10,https://live.v1.mk/aishang/cctv10hd
+CCTV-11,https://live.v1.mk/aishang/cctv11hd
+CCTV-12,https://live.v1.mk/aishang/cctv12hd
+CCTV-13,https://live.v1.mk/aishang/cctv13hd
+CCTV-14,https://live.v1.mk/aishang/cctv14hd
+CCTV-15,https://live.v1.mk/aishang/cctv15hd
+CCTV-16,https://live.v1.mk/aishang/cctv16hd
+CCTV-17,https://live.v1.mk/aishang/cctv17hd
 CGTN ,https://live.v1.mk/aishang/cgtnhd
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-CCTV-1 综合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-2 财经,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-3 综艺,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV-4 中文国际,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV-5 体育,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV-5+ 体育赛事,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-CCTV-6 电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-CCTV-7 国防军事,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-CTV-8 电视剧,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-CCTV-9 纪录,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-CCTV-10 科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV-11 戏曲,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV-12 社会与法,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-CCTV-13 新闻,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV-14 少儿,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-CCTV-15 音乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-CCTV-16 奥林匹克,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-CCTV-17 农业农村,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
+CCTV-1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV-2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV-3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV-4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV-5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV-5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+CCTV-6,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
+CCTV-7,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+CCTV-8,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+CCTV-9,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV-10,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+CCTV-11,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV-12,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+CCTV-13,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV-14,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+CCTV-15,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
+CCTV-16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV-17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
 
 卫视,#genre#
 湖南卫视 https://live.v1.mk/aishang/hunwshd
