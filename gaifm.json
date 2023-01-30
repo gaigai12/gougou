@@ -12,7 +12,6 @@
 {"key" : "drpy_js_乐猪TV","name" : "乐猪TV[PY]","type" : 3, "api" : "https://ml.caixin.repl.co/jshk/lib/drpy2.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E4%B9%90%E7%8C%AATV.js"},
 {"key":"drpy_js_Voflix"  ,"name":"Voflix[PY]","type":3,"api":"https://gaigai.anglesya.win/.js/drpy.min.js","ext":"https://gaigai.anglesya.win/.js/Voflix.js"},
 {"key": "csp_Panghu"  ,"name":"胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Dy555"  ,"name":"555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_Dm84"    ,"name":"动漫巴士Sp","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable":1}, 
 {"key":"YQK_spider","name":"一起看","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://52bsj.vip:81/api/v3/file/get/65035/qj.jar?sign=U-N-b8k1fvZQ9JfIF7a2H3Uq-F33kjJAS-D4qPqYJcA%3D%3A0"},
