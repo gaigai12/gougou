@@ -10,7 +10,7 @@
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "csp_Voflix","name": "Voflix","type": 3,"api": "csp_Voflix", "searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Panghu"  ,"name":"胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Dy555"  ,"name":"555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "csp_Dy555"  ,"name":"555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_Bttoo","name":"两BT影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Dm84"    ,"name":"动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable":1}, 
