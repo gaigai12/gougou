@@ -2,8 +2,8 @@
     //"spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
     "spider":"https://gaigai.i19.eu/cs103.jar;md5;a943827457d03c6f5b181b14501dc1b5",
 "sites": [
-{"key" : "drpy_js_豆"    ,"name":"搜索豆瓣","type" : 3,"api" : "https://gaigai.anglesya.win/.js/drpy.min.js","ext" : "https://gaigai.anglesya.win/.js/drpy.js"},
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key" : "drpy_js_豆"    ,"name":"搜索豆瓣","type" : 3,"api" : "https://gaigai.anglesya.win/.js/drpy.min.js","ext" : "https://gaigai.anglesya.win/.js/drpy.js"},
 {"key": "csp_QQ"         ,"name":"腾讯视频","type":3,"api":"csp_QQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
