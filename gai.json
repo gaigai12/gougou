@@ -35,39 +35,45 @@
 {"key" : "drpy_js_腾","name" : "腾讯备用","type" : 3,"api" : "http://101.34.67.237/libs/drpy.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
 {"key": "dr_奇珍异兽","name": "爱奇备用","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/奇珍异兽.js"},
 {"key": "dr_百忙无果"    ,"name": "芒果备用","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/百忙无果.js"},
+
 {"key" : "drpy_js_乐猪TV","name" : "乐猪备用","type" : 3, "api" : "https://ml.caixin.repl.co/jshk/lib/drpy2.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E4%B9%90%E7%8C%AATV.js"},    
 {"key":"drpy_js_Voflix"  ,"name":"Voflix备用","type":3,"api":"https://gaigai.anglesya.win/.js/drpy.min.js","ext":"https://gaigai.anglesya.win/.js/Voflix.js"},
 {"key": "csp_XYQ_lu1"    , "name": "️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai.anglesya.win/直播源.json"},
 
-
-
 {"key": "2年级"          ,"name": "2年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.anglesya.win/二年级.json"},
 {"key": "7年级"           ,"name":"7年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.anglesya.win/初中.json"},
 {"key": "儿歌"            ,"name":"儿歌大全","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai.anglesya.win/少儿教育.json"},
+
 {"key": "csp_LiteApple"  ,"name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_xpath_dm84","name": "动漫巴士XB","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.anglesya.win/动漫巴士.json"},	
-{"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
-{"key": "csp_xb_cokemv","name": "cokemv(XBiu)","type": 3, "api": "csp_XBiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key": "dr_菜狗","name": "菜狗(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/菜狗.js"},
 {"key": "Voflix","name": "Voflix(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.anglesya.win/voflix.json"},
+
 {"key": "Yiso"         ,"name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok"},
 {"key": "upyun"         ,"name": "云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok"},
 {"key": "PanSou"         ,"name": "盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok"},
-{"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/bili.json"},
 {"key": "学堂"            ,"name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/学堂.json"},
 {"key": "演唱会"          ,"name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai.anglesya.win/演唱会.json"},
+
 {"key": "戏曲"            ,"name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/戏曲.json"},
 {"key": "美食"            ,"name": "美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/美食.json"},
 {"key": "体育"            ,"name": "体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/体育.json"},
+
+{"key": "MV"              ,"name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/歌曲MV.json"},
 {"key": "球类"            ,"name": "球类","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/球类.json"},
 {"key": "棋牌"            ,"name": "棋牌娱乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/棋牌.json"},
-{"key": "MV"              ,"name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.anglesya.win/歌曲MV.json"},
+
+
 {"key": "csp_Yj1211"      ,"name": "网红直播","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key" : "drpy_js_Alist","name" : "Alist[DRPY]","type" : 3,"api" : "https://gaigai.anglesya.win/.js/alist.min.js","ext" : "https://gaigai.anglesya.win/.js/alist.json"},
+{"key": "csp_xpath_dm84","name": "动漫备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.anglesya.win/动漫巴士.json"},	
+{"key": "csp_xb_cokemv","name": "cokemv(XBiu)","type": 3, "api": "csp_XBiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key" : "drpy_js_Alist","name" : "Alist","type" : 3,"api" : "https://gaigai.anglesya.win/.js/alist.min.js","ext" : "https://gaigai.anglesya.win/.js/alist.json"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"},
 //{"key": "py_bilimd","name": "B站","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gaigai.anglesya.win/.js/py_bilimd.py"},    
+//{"key":"drpy_js_AGE动漫","name":"AGE动漫","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/tok"}],
 
 "lives":[{"group":"redirect","channels":[{"name":"live",
