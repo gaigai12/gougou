@@ -71,7 +71,7 @@
 {"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"switchable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 //{"key" : "drpy_js_Alist","name" : "Alist","type" : 3,"api" : "https://gaigai.anglesya.win/.js/alist.min.js","ext" : "https://gaigai.anglesya.win/.js/alist.json"},
-{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
+//{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"},
 //{"key": "py_bilimd","name": "B站","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gaigai.anglesya.win/.js/py_bilimd.py"},    
 //{"key":"drpy_js_AGE动漫","name":"AGE动漫","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
