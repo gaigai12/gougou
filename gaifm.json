@@ -5,6 +5,7 @@
     "spider":"https://gaigai.i19.eu/cs103.jar;md5;3af7eaf917576c6392ce1a07981895ef",
 
 "sites": [
+{"key":"t4桉佬", "name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "csp_Voflix","name": "Voflix","type": 3,"api": "csp_Voflix", "searchable": 1,"quickSearch": 1,"filterable": 1},
