@@ -3,7 +3,7 @@
     "spider":"https://gaigai.i19.eu/cs103.jar;md5;3af7eaf917576c6392ce1a07981895ef",
 "sites": [
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"js豆瓣","name":"🅱豆瓣┃推荐","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
+//{"key":"js豆瓣","name":"🅱豆瓣┃推荐","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
     {"key" : "drpy_js_豆"    ,"name":"搜索豆瓣","type" : 3,"api" : "https://gaigai.i19.eu/.js/drpy.min.js","ext" : "https://gaigai.i19.eu/.js/drpy.js"},
 {"key": "csp_QQ"         ,"name":"腾讯视频","type":3,"api":"csp_QQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
