@@ -41,8 +41,6 @@
 {"key": "dr_百忙无果"    ,"name": "芒果备用","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/百忙无果.js"},
 
 {"key" : "drpy_js_乐猪TV","name" : "乐猪备用","type" : 3, "api" : "https://ml.caixin.repl.co/jshk/lib/drpy2.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E4%B9%90%E7%8C%AATV.js"},    
-{"key": "csp_XYQ_lu1"    , "name": "️电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai.i19.eu/直播源.json"},
-
 {"key": "2年级"          ,"name": "2年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/二年级.json"},
 {"key": "7年级"           ,"name":"7年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/初中.json"},
 {"key": "儿歌"            ,"name":"儿歌大全","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai.i19.eu/少儿教育.json"},
