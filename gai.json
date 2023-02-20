@@ -7,7 +7,7 @@
 {"key": "csp_QQ"         ,"name":"腾讯视频","type":3,"api":"csp_QQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "Lezhu_spider"   ,"name":"乐猪影视","api": "csp_Lezhu","type": 3,"playerType": 2,"filterable": 1,"quickSearch": 1,"searchable": 1},
-{"key": "Paper"           ,"name": "阿里超清", "type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/nn"},
+{"key": "Paper"           ,"name": "阿里超清", "type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋen.php"},
 
 {"key": "csp_IQIYI"      ,"name":"奇艺视频","type":3,"api":"csp_IQIYI","playerType": 2,"searchable":1,"quickSearch":0,"filterable":1},
 
@@ -49,9 +49,9 @@
 {"key": "dr_菜狗","name": "菜狗(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/菜狗.js"},
 //{"key": "Voflix","name": "Voflix(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.anglesya.win/voflix.json"},
 
-{"key": "Yiso"         ,"name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/nn"},
-{"key": "upyun"         ,"name": "云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/nn"},
-{"key": "PanSou"         ,"name": "盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/nn"},
+{"key": "Yiso"         ,"name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋen.php"},
+{"key": "upyun"         ,"name": "云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋen.php"},
+{"key": "PanSou"         ,"name": "盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋen.php"},
 
 {"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.i19.eu/bili.json"},
 {"key": "学堂"            ,"name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.i19.eu/学堂.json"},
@@ -76,7 +76,7 @@
 //{"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"},
 //{"key": "py_bilimd","name": "B站","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gaigai.anglesya.win/.js/py_bilimd.py"},    
 //{"key":"drpy_js_AGE动漫","name":"AGE动漫","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
-{"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/nn"}],
+{"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://我不是.肥猫.love:63/toｋen.php"}],
 
 "lives":[{"group":"redirect","channels":[{"name":"live",
 "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nYWlnYWkuaTE5LmV1L3piLnR4dA=="]}]}],
