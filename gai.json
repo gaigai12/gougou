@@ -1,6 +1,6 @@
 {
     //"spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
-    "spider":"https://gaigai.i19.eu/cs104.jar;md5;1d44c183f84dee3303f2eadf06c185db",
+    "spider":"https://gaigai.i19.eu/216.jar;md5;dd6d2d030f9ec733002e288af4a7726a",
 "sites": [
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key" : "drpy_js_豆"    ,"name":"搜索豆瓣","type" : 3,"api" : "https://gaigai.i19.eu/.js/drpy.min.js","ext" : "https://gaigai.i19.eu/.js/drpy.js"},
