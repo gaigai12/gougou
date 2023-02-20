@@ -2,7 +2,7 @@
 
     //"spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
 
-    "spider":"https://gaigai.i19.eu/cs104.jar;md5;1d44c183f84dee3303f2eadf06c185db",
+    "spider":"https://gaigai.i19.eu/216.jar;md5;dd6d2d030f9ec733002e288af4a7726a",
 
 "sites": [
 {"key":"t4桉佬", "name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e","searchable": 0,"quickSearch": 0,"filterable": 1},
