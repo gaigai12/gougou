@@ -53,7 +53,7 @@
 {"key": "upyun"         ,"name": "云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋ.php"},
 {"key": "PanSou"         ,"name": "盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋ.php"},
 
-{"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.i19.eu/bili.json"},
+{"key": "csp_BBB"        ,"name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://w.g9.pub:66/381203888/json/bilibili_2.json"},
 {"key": "学堂"            ,"name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.i19.eu/学堂.json"},
 {"key": "演唱会"          ,"name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "hhttps://gaigai.i19.eu/演唱会.json"},
 
