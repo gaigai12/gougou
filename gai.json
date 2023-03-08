@@ -1,6 +1,6 @@
 {
     //"spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
-    "spider":"http://我不是.肥猫.love:63/Jar/panda230303.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
+    "spider":"http://我不是.肥猫.love:63/Jar/panda230308b.jar;md5;FD1B07D4BC51C76F592A56C3185EFCFE",
 "sites": [{"key":"js七七","name":"🌈┃七七┃影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key" : "drpy_js_豆"    ,"name":"搜索豆瓣","type" : 3,"api" : "https://gaigai.i19.eu/.js/drpy.min.js","ext" : "https://gaigai.i19.eu/.js/drpy.js"},
@@ -74,8 +74,21 @@
 //{"key":"drpy_js_AGE动漫","name":"AGE动漫","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
 {"key": "push_agent"     ,"name":"🐞推送扫码","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://我不是.肥猫.love:63/toｋ.php"}],
 
-"lives":[{"group":"redirect","channels":[{"name":"live",
-"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nYWlnYWkuaTE5LmV1L3piLnR4dA=="]}]}],
+"lives":[
+
+    {"group":"redirect",
+    "channels":[{
+    "name":"redirect",
+    "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]
+    },
+    
+{
+      "name": "live",
+      "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+      "type": 0,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    }],
 "rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
