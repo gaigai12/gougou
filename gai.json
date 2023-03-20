@@ -31,10 +31,6 @@
 //{"key": "csp_Lib"         ,"name":"libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},   
 {"key": "农民"            ,"name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai.i19.eu/nongminyingshi.json"},    
 
-{"key" : "drpy_js_腾","name" : "腾讯备用","type" : 3,"api" : "http://101.34.67.237/libs/drpy.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
-{"key": "dr_奇珍异兽","name": "爱奇备用","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/奇珍异兽.js"},
-{"key": "dr_百忙无果"    ,"name": "芒果备用","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/百忙无果.js"},
-
 {"key" : "drpy_js_乐猪TV","name" : "乐猪备用","type" : 3, "api" : "https://ml.caixin.repl.co/jshk/lib/drpy2.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E4%B9%90%E7%8C%AATV.js"},    
 {"key": "2年级"          ,"name": "2年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/二年级.json"},
 {"key": "7年级"           ,"name":"7年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/初中.json"},
@@ -42,8 +38,8 @@
 
 {"key": "csp_LiteApple"  ,"name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "dr_菜狗","name": "菜狗(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/菜狗.js"},
-//{"key": "Voflix","name": "Voflix(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.anglesya.win/voflix.json"},
 
+{"key": "dr_88看球","name": "球赛直播","type": 3,"api": "http://id.ganggang.live:63/js/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://id.ganggang.live:63/js/88%E7%9C%8B%E7%90%83.js"},
 {"key": "Yiso"         ,"name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋ.php"},
 {"key": "upyun"         ,"name": "云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋ.php"},
 {"key": "PanSou"         ,"name": "盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/toｋ.php"},
@@ -60,11 +56,9 @@
 {"key": "球类"            ,"name": "球类","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.i19.eu/球类.json"},
 {"key": "棋牌"            ,"name": "棋牌娱乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gaigai.i19.eu/棋牌.json"},
 
-
 {"key": "csp_Yj1211"      ,"name": "网红直播","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_xpath_dm84","name": "动漫备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.i19.eu/动漫巴士.json"},	
 {"key": "csp_xb_cokemv","name": "cokemv(XBiu)","type": 3, "api": "csp_XBiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key": "csp_39ys"       ,"name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"switchable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -101,7 +95,7 @@
 ],
  "parses": [{"name":"解析聚合","type":3,"url":"Demo"},
 {"name": "解析1","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name": "星解析2","type": 1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi",  "qiyi","爱奇艺","奇艺","youku", "YouKu","优酷", "sohu","SoHu",  "搜狐","letv","LeShi","乐视","imgo",  "mgtv", "MangGuo",  "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili",   "QEYSS",   "xigua", "西瓜视频","腾讯视频",  "奇艺视频",   "优酷视频",   "芒果视频",    "乐视视频"] } },
+{"name": "星解析2","type": 1,"url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi",  "qiyi","爱奇艺","奇艺","youku", "YouKu","优酷", "sohu","SoHu",  "搜狐","letv","LeShi","乐视","imgo",  "mgtv", "MangGuo",  "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili",   "QEYSS",   "xigua", "西瓜视频","腾讯视频",  "奇艺视频",   "优酷视频",   "芒果视频",    "乐视视频"] } },
 {"name":"解析3","type":1,"url":"https://jiexi.parses.repl.co/api.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name": "解析4","url":"https://jx.xmflv.com/?url=", "type": 0, "ext": {"flag": ["qiyi", "imgo", "爱奇艺","奇艺","qq","腾讯","youku", "优酷","pptv", "PPTV","letv", "乐视","leshi", "bilibili","哔哩哔哩", "哔哩", "mgtv","芒果", "sohu",  "xigua","fun","风行"],"header": { "User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0" } },
 {"name": "解析5","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
