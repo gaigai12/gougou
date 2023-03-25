@@ -1,6 +1,6 @@
 {
     //"spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
-    "spider":"http://我不是.肥猫.love:63/Jar/panda230324.jar;md5;81BA64D08F05D0DBA8A7343221E5E2C4",
+    "spider":"https://gaigai.i19.eu/fan.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
 "sites": [{"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js豆瓣","name":"豆瓣搜索","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -18,7 +18,8 @@
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_Bttoo","name":"Btto影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "csp_SP360"      ,"name":"360影视","type":3,"api":"csp_SP33","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1},	
-    {"key": "csp_biubiu_voflix","name": "Vof影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/voflix.json"},
+{"key":"csp_Vofl","name":"Vofl影视","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "csp_biubiu_voflix","name": "Vof影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/voflix.json"},
 {"key": "csp_Dm84"       ,"name":"动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable":1}, 
 //{"key":"youku"           ,"name":"优酷视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","playerType": 2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 //{"key":"csp_app_源头","name":"肥猫影院","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
@@ -32,7 +33,7 @@
 //{"key": "csp_Voflix"     ,"name": "Voflix","type": 3,"api": "csp_Voflix", "searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Lib"         ,"name":"libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},   
 {"key": "农民"            ,"name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gaigai.i19.eu/nongminyingshi.json"},    
-{"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
+{"key":"csp_FanYY","name":"4K影院","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key" : "drpy_js_乐猪TV","name" : "乐猪备用","type" : 3, "api" : "https://ml.caixin.repl.co/jshk/lib/drpy2.min.js","ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E4%B9%90%E7%8C%AATV.js"},    
 {"key": "2年级"          ,"name": "2年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/二年级.json"},
 {"key": "7年级"           ,"name":"7年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/初中.json"},
@@ -78,7 +79,7 @@
     
 {
       "name": "live",
-      "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+      "url": "http://ftyyy.tk/live.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
