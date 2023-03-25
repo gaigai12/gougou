@@ -1,6 +1,6 @@
 {
     //"spider":"https://gaigai.anglesya.win/cs102.jar;md5;1377fb68d209dc37c475ddfff8e85b1c",
-    "spider":"http://我不是.肥猫.love:63/Jar/panda230320.jar;md5;AF94CC4D3C30F6CEE8B8B20E7B70A0BC",
+    "spider":"http://我不是.肥猫.love:63/Jar/panda230324.jar;md5;81BA64D08F05D0DBA8A7343221E5E2C4",
 "sites": [{"key":"js七七","name":"🌈七七影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js豆瓣","name":"豆瓣搜索","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
