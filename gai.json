@@ -1,6 +1,6 @@
 {
-    //"spider":"https://gaigai.i19.eu/jar.jar;md5;41b677835e68a20eb4ebd1cefcc75b9f",
-    "spider":"https://gaigai.i19.eu/505.jar;md5;d24d8410ea2be45c126a2e8933ec59f3",
+    "spider":"https://gaigai.i19.eu/jar.jar;md5;41b677835e68a20eb4ebd1cefcc75b9f",
+    //"spider":"https://gaigai.i19.eu/505.jar;md5;d24d8410ea2be45c126a2e8933ec59f3",
 "sites": [//{"key":"js七七","name":"🌈七七影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js豆瓣","name":"豆瓣搜索","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
