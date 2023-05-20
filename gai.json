@@ -81,6 +81,9 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     }],
 "rules": [
+  {"hosts": ["vip.ffzy","vip.lz","hd.lz"],
+   "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
