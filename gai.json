@@ -19,7 +19,7 @@
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_Bttoo","name":"Btto影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_SP360","name":"360影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
-//{"key": "csp_SP360"      ,"name":"360影视","type":3,"api":"csp_SP33","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1},	
+//{"key": "csp_SP360"      ,"name":"360影视","type":3,"api":"csp_SP33","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vofl","name":"Vofl影视","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_biubiu_voflix","name": "Vof影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/voflix.json"},
 {"key": "csp_Dm84"       ,"name":"动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable":1}, 
@@ -81,9 +81,6 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     }],
 "rules": [
-  {"hosts": ["vip.ffzy","vip.lz","hd.lz"],
-   "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
