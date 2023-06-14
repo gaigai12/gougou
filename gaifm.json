@@ -63,11 +63,11 @@
 
 "lives":[
 
-   {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
-    "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    
-{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13",
- "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+    {"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13",
+ "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+  
+    {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
     "rules": [
   {"hosts": ["vip.ffzy","vip.lz","hd.lz"],
