@@ -5,7 +5,7 @@
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js豆瓣","name":"豆瓣搜索","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"teng","name":"腾讯视频","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key":"Lezhu","name":"🐷┃乐猪┃影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
+{"key":"Lezhu","name":"乐猪影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
 //{"key": "csp_BuLei","name":"布雷影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_WoGG","name":"阿里超清","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaigai.i19.eu/gaigai.txt"},
 {"key": "csp_LiteApple"  ,"name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -32,7 +32,7 @@
 {"key":"csp_Cokemv","name":"可乐影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_Voflix"     ,"name": "Voflix","type": 3,"api": "csp_Voflix", "searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Lib"         ,"name":"libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},   
-{"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_兔小贝","name": "儿童启蒙","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "2年级"          ,"name": "2年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/二年级.json"},
 {"key": "7年级"           ,"name":"7年级","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gaigai.i19.eu/初中.json"},
 {"key": "儿歌"            ,"name":"儿歌大全","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://gaigai.i19.eu/少儿教育.json"},
@@ -70,64 +70,15 @@
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     
 "rules": [
-        {
-            "host": "*",
-            "rule": [
-                "default.365yg.com"
-            ]
-        },
-        {
-            "host": "dyxs20.com",
-            "rule": [
-                ".m3u8"
-            ]
-        },
-        {
-            "host": "www.agemys.cc",
-            "rule": [
-                "cdn-tos",
-                "obj/tos-cn"
-            ]
-        },
-        {
-            "host": "www.sharenice.net",
-            "rule": [
-                "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
-            ]
-        },
-        {
-            "host": "www.sharenice.net",
-            "rule": [
-                "qianpailive.com",
-                "vid="
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "douyin.com/aweme",
-                "video_id="
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "huoshan.com",
-                "/item/video/"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
-            ]
-        }
+        {"host": "*","rule": ["default.365yg.com"]},
+        {"host": "dyxs20.com","rule": [".m3u8"]},
+        {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
+        {"host": "www.sharenice.net","rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
+        {"host": "www.sharenice.net","rule": [ "qianpailive.com","vid="]},
+        {"host": "*","rule": ["douyin.com/aweme","video_id="]},
+        {"host": "*","rule": ["huoshan.com","/item/video/"]},
+        {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+        {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
     ],
 
 "parses": [{"name": "Web聚合","type": 3,"url": "Web"},
