@@ -3,7 +3,17 @@
     //"spider":"https://gaigai.i19.eu/624.jar;md5;09baf4a03d362d96f0fc14085c343191",
 "sites": [//{"key":"js七七","name":"🌈七七影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kunyu77"    ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"js豆瓣","name":"豆瓣搜索","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{
+            "key": "lf_js_search",
+            "name": "搜索 | lf_search",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "https://gaigai.i19.eu/lf_search1_min.js"
+},
+    {"key":"js豆瓣","name":"豆瓣搜索","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"teng","name":"腾讯视频","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"Lezhu","name":"乐猪影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
 //{"key": "csp_BuLei","name":"布雷影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
