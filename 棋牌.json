@@ -109,21 +109,10 @@
     {
       "type_name": "双扣",
       "type_id": "双扣"
-    }, {
-      "type_name": "打滚子",
-      "type_id": "打滚子棋牌"
-    },
-    {
-      "type_name": "远离赌博，创造美好家庭",
-      "type_id": ""
     }
-    
-
-
   ],
+    "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7",
   "filter": {
-   
-
 "棋牌": [
 {"key": "order","name": "排序","value": [
 {"n": "综合排序","v": "0"},
