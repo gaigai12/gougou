@@ -11,7 +11,7 @@
 {"key":"csp_WoGG","name":"阿里超清","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {"key": "迪迪","name": "迪迪影视","api": "csp_AppYsV2","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key": "陌陌","name": "陌陌影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://guan.yy365.vip/api.php/app/"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
+{"key": "drpy_js_奇珍异兽","name": "🐨┃爱奇┃官源","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.m.js","ext": "http://alist.xn--z7x900a.love:63/爱奇.js"},
 //{"key": "Itv","name": "爱奇艺","type": 3,"api": "csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0},
 {"key": "csp_Czsapp"      ,"name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_MGTV"       ,"name":"芒果视频","type":3,"api":"csp_Mtv","playerType": 1,"searchable":1,"quickSearch":0,"filterable":1},
@@ -52,7 +52,7 @@
 
 "lives":[
 
-    {"name":"live","type":0,"url":"http://hz752.love:63/txt/tvbs.txt","playerType":1,"ua": "okhttp/3.12.13",
+    {"name":"live","type":0,"url":"https://ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"ua": "okhttp/3.12.13",
  "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
   
     {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
@@ -70,19 +70,18 @@
         {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
     ],
 
-"parses": [{"name": "Web聚合","type": 3,"url": "Web"},
+"parses": [{"name":"解析聚合","type":3,"url":"Demo"},
+   {"name": "Web聚合","type": 3,"url": "Web"},
 {"name":"全部","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-{"name": "解析4","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name": "解析2","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name": "解析3","type":0,"url":"https://jx.xmflv.com/?url=", "ext": {"flag": ["qiyi", "imgo", "爱奇艺","奇艺","qq","腾讯","youku", "优酷","pptv", "PPTV","letv", "乐视","leshi", "bilibili","哔哩哔哩", "哔哩", "mgtv","芒果", "sohu",  "xigua","fun","风行"],"header": { "User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0" } },
-{"name": "解析5","type":0,"url":"https://okjx.cc/?url="},
-{"name": "解析6","type":0,"url": "https://jx.aidouer.net/?url="},
-{"name": "解析7","type":0,"url": "https://bd.jx.cn/?url="},
-{"name": "解析8","type":0,"url": "https://www.8090g.cn/?url="}, 
+{"name": "解析4","type":0,"url": "https://bd.jx.cn/?url="},
+{"name": "解析5","type":0,"url": "https://www.8090g.cn/?url="}, 
+{"name": "莫问解析","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name": "小鱼解析","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
 //{"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
-// {"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}},
-{"name":"解析聚合","type":3,"url":"Demo"}],
+// {"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy",
 "bilibili","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
 "哔哩","zy1080","4k蓝光","内部蓝光"],
