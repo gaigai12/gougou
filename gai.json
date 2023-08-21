@@ -82,7 +82,7 @@
 {"name": "莫问解析","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name": "小鱼解析","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
 //{"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
-// {"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}}],
+{"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy",
 "bilibili","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
 "哔哩","zy1080","4k蓝光","内部蓝光"],
