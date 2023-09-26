@@ -36,7 +36,7 @@
 {"key": "体育"            ,"name": "体育","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext":  "https://gaigai.i19.eu/体育.json"},
 {"key": "球类"            ,"name": "球类","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://gaigai.i19.eu/球类.json"},
 {"key": "棋牌"            ,"name": "棋牌娱乐","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext":  "https://gaigai.i19.eu/棋牌.json"},
-
+{"key": "SNzy","name": "索尼资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yj1211"      ,"name": "网红直播","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_xpath_dm84","name": "动漫备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaigai.i19.eu/动漫巴士.json"},	
 //{"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"switchable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
