@@ -81,7 +81,7 @@
 {"name": "解析4","type":0,"url":"https://jx.xmflv.com/?url=", "ext": {"flag": ["qiyi", "imgo", "爱奇艺","奇艺","qq","腾讯","youku", "优酷","pptv", "PPTV","letv", "乐视","leshi", "bilibili","哔哩哔哩", "哔哩", "mgtv","芒果", "sohu",  "xigua","fun","风行"],"header": { "User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0" } },
 {"name": "解析5","type":0,"url": "https://bd.jx.cn/?url="},
 {"name": "莫问解析","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]},
+{"name":"巧解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 //{"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
 {"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy",
