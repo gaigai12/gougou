@@ -1,6 +1,6 @@
 {
    //"spider":"https://gaigai.i19.eu/825.jar;md5;aa648c4882073165f404a61a5c8e8531",
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
 "sites": [
 {"key": "豆豆"              ,"name": "热门搜索","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "YGP"              ,"name": "新片预告","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
