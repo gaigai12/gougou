@@ -5,6 +5,7 @@
 {"key": "豆豆"              ,"name": "热门搜索","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "YGP"              ,"name": "新片预告","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"南瓜"              ,"name":"南瓜影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key": "csp_Nmys"         ,"name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 {"key":"橘子"               ,"name":"橘子影视","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
 {"key": "feiyun"          ,"name": "飞云影视","type": 3,"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key":"玩偶哥哥"            ,"name":"阿里4K扫码","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
@@ -15,23 +16,7 @@
 {"key": "毛驴"             ,"name": "毛驴影视","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
 {"key": "蚂蚁"             ,"name": "蚂蚁影视","type": 3,"api": "csp_MYYS","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://rzys.xyz"},
 {"key": "迪迪"             ,"name": "迪迪影视","api": "csp_AppYsV2","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
-{
-			"key": "alist",
-			"name": "小鸭┃网盘",
-			"type": 3,
-			"playerType": "1",
-			"api": "csp_AList",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
-				"drives": [{
-					"name": "托盘",
-					"server": "https://pan.mediy.cn/"
-				}]
-			}
-		},
+{"key": "alist"           ,"name": "小鸭┃网盘","type": 3,"playerType": "1","api": "csp_AList","searchable": 1,0"quickSearch": 1,"filterable": 1,"ext": {"vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg","drives": [{"name": "托盘","server": "https://pan.mediy.cn/"}]}},
    //{"key": "drpy_js_aiqiyi"   ,"name": "爱奇官源","type": 3,"api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.love:63/爱奇.js"},
 {"key": "csp_SP360"        ,"name":"360影视","type":3,"api":"csp_SP33","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "Itv"            ,"name": "爱奇艺","type": 3,"api": "csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0},
@@ -40,7 +25,6 @@
 {"key":"csp_Cokemv"        ,"name":"可乐影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Auete"            ,"name": "奥特影视","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.aueteys.com/"},
 {"key": "zxzj"             ,"name": "在线影视","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
-{"key": "csp_Nmys"         ,"name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 {"key": "88js"             ,"name": "⚽88看球","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key": "csp_Dm84"         ,"name":"动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable":1}, 
 {"key":"csp_Lib"           ,"name":"Lib影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"changeable": 1,"ext":"https://www.libvio.fun/"},
@@ -68,11 +52,11 @@
 {"key": "高中教育"          ,"name": "📚高中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gaigai.i19.eu/高中.json"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "直播转点播"         ,"name": "电视直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
-   {"key": "push_agent"     ,"name":"11月6日更新","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
+   {"key": "push_agent"     ,"name":"12月17日更新","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
 
 "lives":[
 
-    {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua": "okhttp/3.12.13",
+    {"name":"live","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","playerType":1,"ua": "okhttp/3.12.13",
  "epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
     
 "rules": [
