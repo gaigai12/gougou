@@ -1,6 +1,6 @@
 {
    //"spider":"https://gaigai.i19.eu/825.jar;md5;aa648c4882073165f404a61a5c8e8531",
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
+   "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
 "sites": [
 {"key": "豆豆"              ,"name": "热门搜索","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "YGP"              ,"name": "新片预告","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
@@ -25,9 +25,10 @@
 {"key":"csp_Cokemv"        ,"name":"可乐影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Auete"            ,"name": "奥特影视","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.aueteys.com/"},
 {"key": "zxzj"             ,"name": "在线影视","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
-{"key": "88js"             ,"name": "⚽88看球","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_qiumi","name":"⚽ Jrs┃球迷","type": 3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key": "csp_Dm84"         ,"name":"动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable":1}, 
-{"key":"csp_Lib"           ,"name":"Lib影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"changeable": 1,"ext":"https://www.libvio.fun/"},
+{"key":"csp_Lib"           ,"name":"Lib影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"changeable": 1,"ext":"https://www.libvio.pro/"},
 {"key": "DiDuan"           ,"name": "低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "YiSo"             ,"name": "易搜搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key": "Zhaozy"           ,"name": "找资源搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fantaiying$$$qqq111"},
