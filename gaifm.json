@@ -1,6 +1,6 @@
 {
    //"spider":"https://tv.xy1991.win/107.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-   "spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707804949977/fan.txt;md5;d4581b634222bc5502dc8d1dac0840f3",
+   "spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
 "sites": [
 {"key": "豆豆"              ,"name": "辛勤的甘雨","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "csp_Kunyu77"      ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -47,7 +47,7 @@
 {"key": "初中课堂"          ,"name": "📚初中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://tv.xy1991.win/初中.json"},
 {"key": "高中教育"          ,"name": "📚高中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://tv.xy1991.win/高中.json"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
-   {"key": "push_agent"     ,"name":"2月7日更新祝大家新年快乐","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
+   {"key": "push_agent"     ,"name":"3月5日更新","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
 
 "lives":[
 
