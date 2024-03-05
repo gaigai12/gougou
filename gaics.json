@@ -1,6 +1,6 @@
 {
    //"spider":"https://tv.xy1991.win/107.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-   "spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707804949977/fan.txt;md5;d4581b634222bc5502dc8d1dac0840f3",
+   "spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
 "sites": [
 {"key": "豆豆"              ,"name": "辛勤甘雨测试","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "csp_Kunyu77"      ,"name":"七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -24,7 +24,7 @@
 {"key": "csp_Dm84"         ,"name":"动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"filterable":1}, 
 {"key":"短剧"               ,"name":"短剧┃抖音","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://duanju.one"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
-   {"key": "push_agent"     ,"name":"2月7日更新祝大家新年快乐","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
+   {"key": "push_agent"     ,"name":"3月5日更新","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
 
 "lives":[
 
