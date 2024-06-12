@@ -1,13 +1,13 @@
 {
    //"spider":"https://tv.xy1991.win/107.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
    "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
- "sites": [
+ "logo":"https://gitee.com/okjack/okk/raw/master/ol.txt",
+   "sites": [
 {"key": "豆豆"              ,"name": "热门搜索","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "YGP"              ,"name": "新片预告","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
-   {"key":"天天弹幕版","name":"⛅️天天┃弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
-   {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
-{"key":"天天弹幕版","name":"⛅️天天┃弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
-   {"key":"荐片弹幕版","name":"荐片┃手机","type":3,"api":"csp_Jianpian","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
+   {"key":"天天弹幕版","name":"⛅️天天┃弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10",jar":"https://gitee.com/okjack/okk/raw/master/okpng.txt"},
+   {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43},"jar":"https://gitee.com/okjack/okk/raw/master/okpng.txt"},
+ {"key":"荐片弹幕版","name":"荐片┃手机","type":3,"api":"csp_Jianpian","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10",jar":"https://gitee.com/okjack/okk/raw/master/okpng.txt"},
    {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1},
    {"key":"南瓜"              ,"name":"南瓜影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看"               ,"name":"酷看┃App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
