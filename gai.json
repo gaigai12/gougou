@@ -94,7 +94,6 @@
 {"name":"-冰豆-","type":0,"url":"https://bd.jx.cn/?url="},
 {"name":"-m3u8TV-","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"-听乐-","type":0,"url":"https://jx.dj6u.com/?url="},
-{"name":"-虾米2-","type":0,"url":"https://jx.xmflv.cc/?url="},
 {"name":"-云析-","type":0,"url":"https://jx.yparse.com/index.php?url="},
 {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}},
    //{"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
