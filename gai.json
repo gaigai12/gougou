@@ -83,6 +83,7 @@
 ],
 
 "parses": [{"name": "Web聚合","type": 3,"url": "Web"},{"name":"聚合","type":3,"url":"Demo"},
+{"name":"-8090g-","type":0,"url":"https://www.8090g.cn/jiexi/?url="},
 {"name":"-777-","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"-ik9-","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
 {"name":"-杰森-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
