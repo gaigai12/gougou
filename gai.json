@@ -51,7 +51,7 @@
 {"key": "初中课堂"          ,"name": "📚初中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://tv.xy1991.win/初中.json"},
 {"key": "高中教育"          ,"name": "📚高中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://tv.xy1991.win/高中.json"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0},
-   {"key": "push_agent"     ,"name":"6月30日更新","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
+   {"key": "push_agent"     ,"name":"9月22日更新","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": ""}],
 
 "lives":[
 {"name":"电影","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722589153126/movie.txt","playerType":2},
